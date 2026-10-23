@@ -160,7 +160,6 @@ Open the notebooks in the `notebook/` directory and execute the cells in the app
 - Include automated data validation checks.
 - Add more insightful visualizations based on the dataset.
 - Create an interactive healthcare analytics dashboard.
-- Add reproducible analysis instructions and documented findings.
 
 ## 👨‍💻 Author
 
